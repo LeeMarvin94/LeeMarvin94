@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeMarvin94
-- 👀 I’m interested in Embedded Systems/ Data Sciences/Electronics
-- 🌱 I’m currently learning ADAS and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Designing  an ADAS system from A to Z
+- 👀 I’m interested in Embedded Systems/Software engineering/Electronics
+- 🌱 I’m currently learning Software engineering, an deep program of ALX SE
+- 💞️ I’m looking for collaborations on Designing  ADAS systems from A to Z
 - 📫 How to reach me through my personal email: rollymarvinondoabaghe@gmail.com
 
 <!---
