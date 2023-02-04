@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeeMarvin94
 - 👀 I’m interested in Embedded Systems/Software engineering/Electronics
-- 🌱 I’m currently learning Software engineering, an deep program of ALX SE
+- 🌱 I’m currently learning Software engineering, a deep program that involves various topics about SE with ALX SE
 - 💞️ I’m looking for collaborations on Designing  ADAS systems from A to Z
 - 📫 How to reach me through my personal email: rollymarvinondoabaghe@gmail.com
 
