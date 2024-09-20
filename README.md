@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeMarvin94
-- 👀 I’m interested in Embedded Systems/Software engineering/Electronics
-- 🌱 I’m currently learning Software engineering, a deep program that involves various topics about SE with ALX SE
-- 💞️ I’m looking for collaborations on Designing  ADAS systems from A to Z
+- 👀 I’m interested in every projects that entail Embedded Systems Design and Programming and Architecting complex Cloud Infrastructure
+- 🌱 I’m currently holding a full-time position as an Electronics and Robotics Instructor at Fablab Moanda
+- 💞️ I’m looking for collaborations on Designing  ADAS systems and iot projects
 - 📫 How to reach out me through my personal email: rollymarvinondoabaghe@gmail.com
 
 <!---
