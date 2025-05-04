@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeeMarvin94
 - 👀 I’m interested in every projects that entail Embedded Systems Design and Programming and Architecting complex Cloud Infrastructure (AWS Prefered)
-- 🌱 I’m currently holding a full-time position as an Electronics and Robotics Instructor at Fablab Moanda while teaching MCUs and CPUs course in various Universities in Gabon
-- 💞️ I’m looking for collaborations on Designing and building websites and architectures
+- 🌱 I’m currently holding a full-time position as an Electronics and Robotics Instructor at Fablab Moanda while teaching MCUs and CPUs courses in some Universities in Gabon
+- 💞️ I’m Open to any projects that I will find challenging and maybe disruptive.
 - 📫 How to reach out me? through my personal email: rollymarvinondoabaghe@gmail.com
 
 <!---
